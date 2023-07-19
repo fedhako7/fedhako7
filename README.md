@@ -1,4 +1,4 @@
-- 👋 Hi, I’m my name is Fedhasa
+- 👋 Hi, I’m @fedhako7
 - 👀 I’m interested in coding, reading, sport, walking.
 - 🌱 I’m currently learning Computer Science at Addis Ababa University.
 - 💞️ I’m looking to collaborate on ...
