@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** and 
 - Always exploring new technologies like **React**, **Node.js**, **SQL**, and **AI**.
 
 ## 💻 Projects
-- **[Amazon Clone](https://github.com/fedhako7/amazon-clone)**: A full-stack e-commerce app built with React and Firebase for user authentication and shopping.
 - **[Evangadi Forum](https://github.com/fedhako7/Evangadi-Forum)**: A Q&A platform developed with React, Node.js, and SQL to help Evangadi Tech students connect.
+- **[Amazon Clone](https://github.com/fedhako7/amazon-clone)**: A full-stack e-commerce app built with React and Firebase for user authentication and shopping.
 
 ## 🛠️ Skills & Tools
 - **Frontend:** React, HTML, CSS, JavaScript
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** and 
 - **Other:** Agile Methodology, API Development, Deployment
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn]([link](https://www.linkedin.com/in/linkfedhako7/))
-- Email: [Your Email](mailto:fedhasayelmachew@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/linkfedhako7/)
+- Email: [Email Me](mailto:fedhasayelmachew@gmail.com)
 
 Thanks for visiting! Feel free to check out my repositories and reach out to collaborate. 😊
